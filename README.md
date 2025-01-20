@@ -1,12 +1,12 @@
 # Tweeter
 
 ## Overview
-Tweeter is a simple social media application built using Django, allowing users to create, edit, and delete tweets. Users can also register, log in, and log out. The application supports image uploads with tweets and provides a search functionality to find tweets by text or username.
+Tweeter is a simple social media application built using Django, allowing users to create, view, edit and delete tweets. Users can also register, log in, and log out. The application supports image uploads with tweets and provides a search functionality to find tweets by text or username.
 
 
 ## Features
 * User registration and authentication
-* Create, edit, and delete tweets
+* Create, view, edit and delete tweets
 * Upload images with tweets
 * Search functionality for tweets
 * Responsive design using Bootstrap
